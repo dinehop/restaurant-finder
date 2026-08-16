@@ -39,7 +39,8 @@ For detailed coverage and data-source information, use the [product facts](produ
 - [DineHop logo](../assets/brand/dinehop-logo.svg)
 - [DineHop app icon](../assets/brand/dinehop-icon.png)
 - [DineHop social image](../assets/brand/social-preview.jpg)
-- [Product screenshots](../assets/screenshots/)
+- [Promotional product screenshots](../assets/screenshots/)
+- [Raw product screenshots](../assets/screenshots/raw/)
 
 The screenshots contain representative venue and third-party information. Preserve visible source attribution and do not present that content as owned by DineHop.
 

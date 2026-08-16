@@ -10,7 +10,7 @@ The files in this repository are provided so that people can identify DineHop ac
 - `assets/brand/dinehop-icon.png`: 512 by 512 pixel app icon.
 - `assets/brand/social-preview.jpg`: landscape product image for links and articles.
 
-### Product screens
+### Promotional product screens
 
 - `assets/screenshots/home.webp`: restaurant search and categories.
 - `assets/screenshots/search-results.webp`: restaurant results and comparison details.
@@ -18,6 +18,10 @@ The files in this repository are provided so that people can identify DineHop ac
 - `assets/screenshots/filters.webp`: cuisine and dietary filters.
 - `assets/screenshots/place-details.webp`: restaurant details.
 - `assets/screenshots/hygiene-rating.webp`: official hygiene information on a venue.
+
+### Raw product screens
+
+The [raw screenshot collection](../assets/screenshots/raw/) contains direct 1080 by 2340 pixel Android captures without device frames, headlines or decorative backgrounds. It includes Home, Search, Results, Place details, Reviews, Saved places and Settings screens in English.
 
 ## Permitted editorial use
 

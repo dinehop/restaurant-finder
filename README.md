@@ -49,6 +49,8 @@ The images below show representative DineHop screens. Restaurant details and oth
 | --- | --- | --- |
 | <img src="assets/screenshots/map.webp" alt="DineHop map showing nearby restaurant results" width="280"> | <img src="assets/screenshots/place-details.webp" alt="DineHop place details with reviews, menu and opening information" width="280"> | <img src="assets/screenshots/hygiene-rating.webp" alt="DineHop place details showing an official restaurant hygiene grade" width="280"> |
 
+Unframed 1080 by 2340 pixel PNG captures are available in the [raw screenshot collection](assets/screenshots/raw/).
+
 ## Food-hygiene information
 
 DineHop currently supports official food-hygiene or inspection data in eight countries. Coverage is country-wide in six countries and limited to named cities in the United States and Canada.
