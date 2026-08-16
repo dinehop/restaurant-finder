@@ -35,6 +35,8 @@ DineHop supports ten interface languages:
 
 ## Core capabilities
 
+See the [detailed feature guide](features.md) for how these capabilities work and when an account is required.
+
 - Search by dish, cuisine, venue name, neighbourhood, postcode or area.
 - Browse nearby restaurants and food categories.
 - Compare menus, prices, opening hours, photos, ratings and reviews.

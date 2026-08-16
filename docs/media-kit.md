@@ -26,6 +26,7 @@ DineHop is a restaurant discovery and night-out planning app. It searches for pl
 - **Price:** Free, supported by advertising, with no subscription
 - **Coverage:** Restaurant discovery worldwide; official hygiene data in the United Kingdom, France, Singapore, Finland, Denmark and Norway, plus New York City, Chicago, Austin and Toronto
 - **Languages:** Ten, including Arabic with right-to-left layout
+- **Feature guide:** [Detailed DineHop features](features.md)
 - **Contact:** [contact@dinehop.app](mailto:contact@dinehop.app)
 
 ## Accurate positioning

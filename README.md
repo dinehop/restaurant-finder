@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://dinehop.app">Official website</a> ·
   <a href="https://play.google.com/store/apps/details?id=restaurant.app">Download on Google Play</a> ·
+  <a href="docs/features.md">Features</a> ·
   <a href="docs/product-facts.md">Product facts</a> ·
   <a href="docs/media-kit.md">Media kit</a>
 </p>
@@ -36,6 +37,8 @@
 - Opens directions, phone numbers, websites and menu links supplied for a venue.
 
 Basic search and browsing do not require an account. An account is used for features that save or publish personal content, including synced saved places and community reviews.
+
+See the [detailed feature guide](docs/features.md) for search, filters, maps, place details, official food-hygiene information, Shortlists, Hops, Saved places, reviews and account features.
 
 ## Product screens
 
