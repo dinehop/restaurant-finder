@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A standalone example of planning a multi-stop restaurant outing with a DineHop Hop.">
+    <title>Hop planner example | DineHop</title>
+    <link rel="icon" href="../../assets/brand/dinehop-icon.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="page-header">
+        <a class="brand" href="https://dinehop.app">DineHop</a>
+        <p class="eyebrow">Public example</p>
+        <h1>Plan a simple evening Hop</h1>
+        <p class="intro">
+          Arrange a few fictional venues into one route, then export the plan as Markdown.
+          Everything stays in this browser tab.
+        </p>
+      </header>
+
+      <section class="planner" aria-labelledby="plan-title">
+        <div class="plan-heading">
+          <div>
+            <p class="eyebrow">Thursday evening</p>
+            <h2 id="plan-title">Canal-side food Hop</h2>
+          </div>
+          <button id="export-button" class="secondary-button" type="button">
+            Export Markdown
+          </button>
+        </div>
+
+        <ol id="stop-list" class="stop-list" aria-live="polite"></ol>
+
+        <form id="add-stop-form" class="add-stop-form">
+          <h2>Add another stop</h2>
+          <div class="form-grid">
+            <label>
+              Venue name
+              <input id="venue-name" name="venueName" required type="text" maxlength="60" placeholder="Example: Ember Bakery">
+            </label>
+            <label>
+              Area
+              <input id="venue-area" name="venueArea" required type="text" maxlength="60" placeholder="Example: East Market">
+            </label>
+            <label>
+              Planned time
+              <input id="venue-time" name="venueTime" required type="time" value="20:30">
+            </label>
+          </div>
+          <button class="primary-button" type="submit">Add to Hop</button>
+        </form>
+      </section>
+
+      <p class="example-note">
+        Fictional demonstration only. Explore the real product at
+        <a href="https://dinehop.app">dinehop.app</a>.
+      </p>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

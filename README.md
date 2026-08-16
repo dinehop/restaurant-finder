@@ -75,7 +75,14 @@ The source and update date are shown with the rating. DineHop does not create or
 
 The mobile client is developed with Flutter for Android and iOS. This repository is the official public information and media repository for the product. It does not contain the application source code and is not an open-source distribution.
 
-Public API documentation, integration examples or open datasets may be added here or linked from here if DineHop releases them in the future.
+Small examples and reference files in this repository are written independently for public documentation. They are not extracted from the private application and do not represent a public DineHop API.
+
+## Public examples and reference material
+
+- [Food-hygiene coverage dataset](data/food-hygiene-schemes.json): supported jurisdictions and direct official sources.
+- [Standalone Hop planner](examples/hop-planner/): a framework-free browser demonstration using fictional venues.
+- [Illustrative Hop JSON Schema](schemas/hop.example.schema.json): a conceptual structured-data example, not an API contract.
+- [DineHop link snippets](snippets/): copyable Markdown and HTML links for accurate references.
 
 ## Official resources
 

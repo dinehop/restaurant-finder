@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "1.0-example",
+  "title": "Canal-side food Hop",
+  "plannedFor": "2026-09-18",
+  "planningNote": "Start with coffee and finish near the station.",
+  "stops": [
+    {
+      "id": "northline-coffee",
+      "position": 1,
+      "name": "Northline Coffee",
+      "area": "Canal Quarter",
+      "cuisine": "Cafe",
+      "plannedTime": "18:30",
+      "privateNote": "Meet by the front window.",
+      "visited": false,
+      "wouldReturn": null
+    },
+    {
+      "id": "cedar-and-salt",
+      "position": 2,
+      "name": "Cedar & Salt",
+      "area": "Old Foundry",
+      "cuisine": "Mediterranean",
+      "plannedTime": "19:15",
+      "privateNote": "Ask about the seasonal sharing menu.",
+      "visited": false,
+      "wouldReturn": null
+    },
+    {
+      "id": "the-lantern-room",
+      "position": 3,
+      "name": "The Lantern Room",
+      "area": "Riverside Walk",
+      "cuisine": "Dessert",
+      "plannedTime": "21:00",
+      "privateNote": null,
+      "visited": false,
+      "wouldReturn": null
+    }
+  ]
+}

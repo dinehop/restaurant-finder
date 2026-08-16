@@ -1,0 +1,140 @@
+{
+  "title": "Food-hygiene schemes supported by DineHop",
+  "description": "A public reference to the official schemes and geographic coverage represented in DineHop.",
+  "lastReviewed": "2026-08-16",
+  "countries": [
+    {
+      "countryCode": "GB",
+      "country": "United Kingdom",
+      "coverage": "Country-wide where published records are available",
+      "jurisdictions": [
+        {
+          "area": "England, Wales and Northern Ireland",
+          "scheme": "Food Hygiene Rating Scheme (FHRS)",
+          "authority": "Food Standards Agency",
+          "resultFormat": "Rating from 0 to 5",
+          "officialUrl": "https://ratings.food.gov.uk/en"
+        },
+        {
+          "area": "Scotland",
+          "scheme": "Food Hygiene Information Scheme (FHIS)",
+          "authority": "Food Standards Agency",
+          "resultFormat": "Inspection status",
+          "officialUrl": "https://ratings.food.gov.uk/en"
+        }
+      ]
+    },
+    {
+      "countryCode": "FR",
+      "country": "France",
+      "coverage": "Country-wide",
+      "jurisdictions": [
+        {
+          "area": "France",
+          "scheme": "Alim'confiance",
+          "authority": "French Ministry of Agriculture",
+          "resultFormat": "Four hygiene levels",
+          "officialUrl": "https://agriculture.gouv.fr/infographie-alimconfiance-consultez-les-resultats-des-controles-sanitaires"
+        }
+      ]
+    },
+    {
+      "countryCode": "SG",
+      "country": "Singapore",
+      "coverage": "Country-wide",
+      "jurisdictions": [
+        {
+          "area": "Singapore",
+          "scheme": "Safety Assurance for Food Establishments (SAFE)",
+          "authority": "Singapore Food Agency",
+          "resultFormat": "SAFE grade and track record",
+          "officialUrl": "https://www.sfa.gov.sg/tools-and-resources/track-records"
+        }
+      ]
+    },
+    {
+      "countryCode": "FI",
+      "country": "Finland",
+      "coverage": "Country-wide",
+      "jurisdictions": [
+        {
+          "area": "Finland",
+          "scheme": "Oiva",
+          "authority": "Finnish Food Authority",
+          "resultFormat": "Four Oiva assessment levels",
+          "officialUrl": "https://www.oivahymy.fi/yrityshaku"
+        }
+      ]
+    },
+    {
+      "countryCode": "DK",
+      "country": "Denmark",
+      "coverage": "Country-wide",
+      "jurisdictions": [
+        {
+          "area": "Denmark",
+          "scheme": "Danish Smiley scheme",
+          "authority": "Danish Veterinary and Food Administration",
+          "resultFormat": "Smiley inspection result",
+          "officialUrl": "https://www.findsmiley.dk/English/Pages/FrontPage.aspx"
+        }
+      ]
+    },
+    {
+      "countryCode": "NO",
+      "country": "Norway",
+      "coverage": "Country-wide",
+      "jurisdictions": [
+        {
+          "area": "Norway",
+          "scheme": "Smilefjes",
+          "authority": "Norwegian Food Safety Authority",
+          "resultFormat": "Smiley inspection result",
+          "officialUrl": "https://smilefjes.mattilsynet.no/"
+        }
+      ]
+    },
+    {
+      "countryCode": "US",
+      "country": "United States",
+      "coverage": "Selected cities",
+      "jurisdictions": [
+        {
+          "area": "New York City, New York",
+          "scheme": "Restaurant Inspection Results",
+          "authority": "New York City Department of Health and Mental Hygiene",
+          "resultFormat": "Letter grade and inspection score",
+          "officialUrl": "https://a816-health.nyc.gov/ABCEatsRestaurants/"
+        },
+        {
+          "area": "Chicago, Illinois",
+          "scheme": "Food Inspections",
+          "authority": "Chicago Department of Public Health",
+          "resultFormat": "Pass, pass with conditions or fail",
+          "officialUrl": "https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5"
+        },
+        {
+          "area": "Austin, Texas",
+          "scheme": "Food Establishment Inspection Scores",
+          "authority": "Austin Public Health",
+          "resultFormat": "Inspection score from 0 to 100",
+          "officialUrl": "https://data.austintexas.gov/Health-and-Community-Services/Food-Establishment-Inspection-Scores/ecmv-9xxi"
+        }
+      ]
+    },
+    {
+      "countryCode": "CA",
+      "country": "Canada",
+      "coverage": "Toronto only",
+      "jurisdictions": [
+        {
+          "area": "Toronto, Ontario",
+          "scheme": "DineSafe",
+          "authority": "Toronto Public Health",
+          "resultFormat": "Pass, conditional pass or closed",
+          "officialUrl": "https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/food-safety/dinesafe/"
+        }
+      ]
+    }
+  ]
+}
