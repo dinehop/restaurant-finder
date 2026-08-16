@@ -48,20 +48,18 @@ DineHop supports ten interface languages:
 
 ## Food-hygiene and inspection coverage
 
-DineHop uses official government data in supported jurisdictions. Current coverage includes:
+DineHop uses official government data in eight supported countries. Coverage is country-wide in the United Kingdom, France, Singapore, Finland, Denmark and Norway. Coverage in the United States and Canada is currently limited to the cities listed below.
 
-| Jurisdiction | Public authority or scheme |
-| --- | --- |
-| United Kingdom | Food Standards Agency and participating local authorities |
-| France | Alim'confiance |
-| Singapore | Singapore Food Agency |
-| Finland | Oiva |
-| Denmark | Danish Smiley scheme |
-| Norway | Smilefjes |
-| New York City | NYC restaurant inspection grades |
-| Chicago | Chicago food inspection data |
-| Austin | Austin Public Health inspection data |
-| Toronto | DineSafe |
+| Country | Current geographic coverage | Public authority or scheme |
+| --- | --- | --- |
+| United Kingdom | Country-wide where published records are available | Food Standards Agency FHRS and Scottish FHIS records |
+| France | Country-wide | Alim'confiance |
+| Singapore | Country-wide | Singapore Food Agency grades |
+| Finland | Country-wide | Oiva |
+| Denmark | Country-wide | Danish Smiley scheme |
+| Norway | Country-wide | Smilefjes |
+| United States | New York City, Chicago and Austin only | NYC restaurant grades, Chicago Food Inspections and Austin Public Health scores |
+| Canada | Toronto only | DineSafe |
 
 Coverage is shown only when DineHop can match a venue to a supported official record. A missing rating does not mean that a venue has failed an inspection.
 

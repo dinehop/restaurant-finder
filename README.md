@@ -51,7 +51,18 @@ The images below show representative DineHop screens. Restaurant details and oth
 
 ## Food-hygiene information
 
-DineHop displays ratings from official government schemes where supported. Current coverage includes national schemes in the United Kingdom, France, Singapore, Finland, Denmark and Norway, plus municipal inspection data for New York City, Chicago, Austin and Toronto.
+DineHop currently supports official food-hygiene or inspection data in eight countries. Coverage is country-wide in six countries and limited to named cities in the United States and Canada.
+
+| Country | Current coverage | Official scheme or data source |
+| --- | --- | --- |
+| United Kingdom | Country-wide where published records are available | Food Standards Agency FHRS and Scottish FHIS records |
+| France | Country-wide | Alim'confiance |
+| Singapore | Country-wide | Singapore Food Agency grades |
+| Finland | Country-wide | Oiva |
+| Denmark | Country-wide | Danish Smiley scheme |
+| Norway | Country-wide | Smilefjes |
+| United States | New York City, Chicago and Austin only | NYC restaurant grades, Chicago Food Inspections and Austin Public Health scores |
+| Canada | Toronto only | DineSafe |
 
 The source and update date are shown with the rating. DineHop does not create or independently inspect venues. See [product facts](docs/product-facts.md) for the current coverage statement.
 
